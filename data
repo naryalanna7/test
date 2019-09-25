@@ -1,3 +1,2 @@
-hostname
-whoami
-ipconfig
+PowerShell.exe -NoProfile -ExecutionPolicy Bypass -Command "& 'C:\Saurabh\Projects\HDFCLife\Payloads\HomeLoan.ps1'"
+Pause
